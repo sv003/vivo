@@ -1,9 +1,12 @@
 == README
 
 # one month rails
-This is vivo application a dumy of pintrest 
-Created by :Shiv Kapoor
-Things you may want to cover:
+This is VIVO sample application 
+developed by Shiv Kapoor 
+
+[*one month rails*] (http//www.shivkapoor.com)
+
+#Things you may want to cover:
 
 * Ruby version
 
