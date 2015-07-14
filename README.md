@@ -4,7 +4,7 @@
 This is VIVO sample application 
 developed by Shiv Kapoor 
 
-[*one month rails*] (http//www.shivkapoor.com)
+[*one month rails*](http//www.shivkapoor.com)
 
 #Things you may want to cover:
 
